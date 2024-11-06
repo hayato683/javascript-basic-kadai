@@ -1,5 +1,12 @@
-const wgt = 68;
+let wgt = 68;
 
-const height = 1.7;
+
+let height = 1.7;
+
+
+console.log(wgt);
+console.log(height);
+
+
 
 console.log(68/(1.7*1.7));
