@@ -1,9 +1,8 @@
 let wgt = 68;
 
-
 let height = 1.7;
 
-let bmi = 23.5;
+let bmi = (wgt/(height*height));
 
 
 console.log(wgt);
@@ -12,4 +11,5 @@ console.log(bmi);
 
 
 
-console.log(68/(1.7*1.7));
+
+
